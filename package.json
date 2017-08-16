@@ -1,0 +1,22 @@
+{
+  "name": "hello-ice",
+  "version": "1.0.0",
+  "description": "hello ice",
+  "main": "/src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panacholn/hello-ice.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "panacholn pongsamrithphol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/panacholn/hello-ice/issues"
+  },
+  "homepage": "https://github.com/panacholn/hello-ice#readme"
+}
